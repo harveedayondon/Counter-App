@@ -1,0 +1,14 @@
+/* Write CSS Here */
+body {
+	text-align: center;
+    
+        background-color: lightgreen;
+    
+    
+}
+.geeks {
+	font-size: 40px;
+	font-weight: bold;
+	color: rgb(219, 8, 219);
+}
+
